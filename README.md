@@ -26,10 +26,10 @@ Options:
 
 Examples:
   index.ts -d content.yml -t                fill out template/aeolyus with
-  templates/aeolyus -o output.pdf           content.yml and output a PDF to
+  templates/armdev -o output.pdf           content.yml and output a PDF to
                                             output.pdf
   index.ts -d content.yml -t                fill out template/aeolyus with
-  templates/aeolyus -o output.html          content.yml and output HTML to
+  templates/armdev -o output.html          content.yml and output HTML to
                                             output.html
 
 Missing required arguments: data, template, output
